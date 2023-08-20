@@ -1,0 +1,2 @@
+clickIns = noone;
+running = false;
